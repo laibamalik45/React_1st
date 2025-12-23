@@ -41,7 +41,7 @@ let List = () => {
         <li>Computer</li>
         <li>Maths</li>
         <li>Physics</li>
-        <li>Enlish</li>
+        <li>English</li>
       </ul>
     </div>
   );
